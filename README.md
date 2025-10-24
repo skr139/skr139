@@ -22,4 +22,7 @@ En mi experiencia he tenido la oportunidad de trabajar en diversos proyectos, de
 
 ### Development Stack
 Este es mi set de herramientas como desarrollador:
+![Flutter](https://img.shields.io/badge/Flutter-Dart-02569B?style=flat&logo=flutter&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-Core-512BD4?style=flat&logo=.net&logoColor=white)
+
 
