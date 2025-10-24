@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Mi nombre es Oscar Torres, soy ingeniero en telecomunicaciones de la Universidad Politécnica Saliesiana de Cuenca - Ecuador, pero mi carrera se ha centrado en el desarrollo de software, especialmente en el desarrollo de aplicaciones móviles utilizando tecnologías como flutter y kotlin.
+
+Me he desenvuelto como desarrollador full stack durante mi carrera como programador, en donde hasta la fecha mis herramientas han sido flutter, kotlin (ya encionadas) y angular para para el desarrollo fron-end y .Net/C# y Spring Boot para el backend mientras que para las bases de datos relacionales he trabajado con PostgreSQL y MySQL y MongoDB en bases de datos no relacionales.
+
+En mi experiencia he tenido la oportunidad de trabajar en diversos proyectos, desde aplicaciones móviles complejos hasta aplicaciones web intuitivas, lo que me ha permitido adquirir una amplia experiencia en el desarrollo de software y en la gestión de proyectos.
