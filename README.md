@@ -38,7 +38,7 @@ Estas son algunas de mis herramientas como desarrollador:
 
 ### Algunos de los proyectos en los que he trabajado
 <p>
-  He podido ganar experiencia en proyectos de diversa indole, lo que me ha permitido solverntar mis conocimientos técnicos y habilidades sociales y personales.
+  He podido ganar experiencia en proyectos de diversa indole, lo que me ha permitido solventar mis conocimientos técnicos y habilidades sociales y personales.
 </p>
 <b>Proyecto de bebidas</b>
     <p>
