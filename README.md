@@ -107,5 +107,9 @@ Estas son algunas de mis herramientas como desarrollador:
         <ul class="phones">
             <li>(+593) 96 840 6883</li>
         </ul>
+<b>Web</b>
+<p>
+  <a href="https://skrdev.netlify.app" target="_blank" >Mi página personal</a>
+</p>
 
     
