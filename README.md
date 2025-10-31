@@ -103,10 +103,6 @@ Estas son algunas de mis herramientas como desarrollador:
             <li>oscar129.him@gmail.com</li>
             <li>oscar.torres1309@hotmail.com</li>
         </ul>
-<b>Telefonos</b>
-        <ul class="phones">
-            <li>(+593) 96 840 6883</li>
-        </ul>
 <b>Web</b>
 <p>
   <a href="https://skrdev.netlify.app" target="_blank" >Mi página personal</a>
